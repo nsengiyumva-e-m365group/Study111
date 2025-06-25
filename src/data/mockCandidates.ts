@@ -1,0 +1,68 @@
+import { Candidate } from "@/types/candidate";
+
+export const mockCandidates: Candidate[] = [
+  {
+    id: "1",
+    name: "Jessie Clarcson",
+    initials: "JC",
+    avatarColor: "bg-purple-500",
+    status: "no-cv-found",
+    skills: [],
+  },
+  {
+    id: "2",
+    name: "Judah Adeniran",
+    initials: "JA",
+    avatarColor: "bg-red-500",
+    status: "no-cv-found",
+    skills: [],
+  },
+  {
+    id: "3",
+    name: "Lebron Wayde",
+    initials: "LW",
+    avatarColor: "bg-green-500",
+    status: "no-cv-found",
+    skills: [],
+  },
+  {
+    id: "4",
+    name: "Judah Adeniran",
+    initials: "JD",
+    avatarColor: "bg-blue-500",
+    status: "no-cv-found",
+    skills: [],
+  },
+  {
+    id: "5",
+    name: "Kevin Leonard",
+    initials: "KL",
+    avatarColor: "bg-yellow-500",
+    status: "no-cv-found",
+    skills: [],
+  },
+  {
+    id: "6",
+    name: "Judah Adeniran",
+    initials: "JA",
+    avatarColor: "bg-red-500",
+    status: "no-cv-found",
+    skills: [],
+  },
+  {
+    id: "7",
+    name: "Natali Goodwin",
+    initials: "NG",
+    avatarColor: "bg-blue-500",
+    status: "no-cv-found",
+    skills: [],
+  },
+  {
+    id: "8",
+    name: "Jessie Clarcson",
+    initials: "JC",
+    avatarColor: "bg-purple-500",
+    status: "no-cv-found",
+    skills: [],
+  },
+];
